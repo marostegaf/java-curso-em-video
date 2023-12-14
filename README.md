@@ -1,1 +1,1 @@
-# Exercícios para consulta em Java.
+Exercícios desenvolvidos através do Curso em Vídeo: Java
